@@ -1,0 +1,76 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 40px 15px 40px;
+  
+}
+.pixer-logo{
+  display: flex;
+  align-items: center;
+
+}
+ 
+
+.btn-part{
+ display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.btn-logo{
+  margin: ;
+  width: 470;
+height: 224;
+margin-left: 100px;
+margin-right: 730px;
+margin-top: 97px;
+width: 1300;
+height: 418;
+top: 56px;
+angle: 0 deg;
+opacity: 1;
+
+p{
+  margin-top: 16px;
+  margin-right: 190px;
+ width: 465;
+height: 74;
+angle: 0 deg;
+opacity: 1;
+
+
+
+}
+button{
+  margin-top: 20px;
+  width: 232;
+height: 40;
+angle: 0 deg;
+opacity: 1;
+gap: 10px;
+border-radius: 5px;
+padding-top: 8px;
+padding-right: 16px;
+padding-bottom: 8px;
+padding-left: 16px;
+background-color: #00BAFC;
+color: white;
+}
+}
+.btn-parts{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 896px;
+ margin-top: -40px;
+}
+.btn-img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
